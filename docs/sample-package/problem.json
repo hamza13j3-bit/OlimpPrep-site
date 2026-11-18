@@ -1,0 +1,20 @@
+{
+  "format_version": 1,
+  "rating": 800,
+  "time_limit_ms": 1000,
+  "memory_limit_mb": 256,
+  "source": "OlimpPrep sample",
+  "year": 2026,
+  "author": "OlimpPrep",
+  "hide_tags_until_solved": false,
+  "tags": ["math"],
+  "translations": {
+    "kk": { "title": "Екі санның қосындысы" },
+    "en": { "title": "Sum of two numbers" }
+  },
+  "subtasks": [
+    { "points": 40, "tests": ["01", "02"] },
+    { "points": 60, "tests": ["03", "04"] }
+  ],
+  "examples": ["01"]
+}
